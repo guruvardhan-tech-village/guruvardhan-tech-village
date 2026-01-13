@@ -12,7 +12,7 @@ I actively explore **AI-assisted development**, cloud technologies, and problem-
 - 🎓 Final Year **Information Technology** student  
 - 💡 Interested in **Software Development, AI, and Cloud Computing**  
 - 🔍 Love solving problems using **data structures & algorithms**  
-- 🌱 Currently learning **advanced backend systems & DevOps basics**  
+- 🌱 Currently learning **advanced backend systems & AI/ML**  
 - 🤝 Open to **internships, open-source contributions, and collaborations**
 
 ---
