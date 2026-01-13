@@ -18,10 +18,9 @@ I actively explore **AI-assisted development**, cloud technologies, and problem-
 ---
 
 ## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,tailwind,git,github,vs" />
+</p>
 
 **Also familiar with:**  
 `Git` • `Linux` • `REST APIs` • `OOP` • `Basic DevOps Concepts`
