@@ -19,7 +19,7 @@ I actively explore **AI-assisted development**, cloud technologies, and problem-
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,mongodb,html,css,tailwind,git,github,vs,python,java,aws" />
+  <img src="https://skillicons.dev/icons?i=js,react,mongodb,html,css,tailwind,git,github,vscode,python,java,aws" />
 </p>
 
 **Also familiar with:**  
