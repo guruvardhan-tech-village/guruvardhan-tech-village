@@ -29,7 +29,7 @@ I actively explore **AI-assisted development**, cloud technologies, and problem-
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=guruvardhan-tech-village&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=guruvardhan-tech-village&theme=dark)](https://streak-stats.demolab.com)
 
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guruvardhan-tech-village&layout=compact&theme=dark)
 
