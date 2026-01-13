@@ -23,8 +23,7 @@ I am a **Final Year IT Student** and an **Aspiring Software Engineer** passionat
 ---
 
 ### 🤝 Let's Connect!
-- **LinkedIn:** [Your LinkedIn Profile Link]
-- **Portfolio:** [Your Portfolio Link or 'Coming Soon']
-- **Email:** [Your Email Address]
+- **LinkedIn:** [https://www.linkedin.com/in/guruvardhana-m/]
+- **Email:** [guruvardhaniniot@gmail.com]
 
 *Currently looking for internship opportunities and open-source collaborations!*
