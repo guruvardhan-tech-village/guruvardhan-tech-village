@@ -1,4 +1,4 @@
-# Hi there, I'm Guruvardhan! 👋  
+# Hi there, I'm Guruvardhan! 
 > *"The best way to predict the future is to invent it."*
 
 🚀 **Final Year IT Student | Aspiring Software Engineer | AI-Driven Developer**
