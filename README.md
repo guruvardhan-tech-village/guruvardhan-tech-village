@@ -50,6 +50,7 @@ I actively explore **AI-assisted development**, cloud technologies, and problem-
 ## 🤝 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guruvardhana-m/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guruvardhaniniot@gmail.com)
+[!Portfolio](https://guruvardhan-tech-village.github.io/my-portfolio/)
 
 📢 **Currently looking for internship opportunities & open-source collaborations!**
 
