@@ -1,5 +1,4 @@
-# [![Typing SVG](https://herokuapp.com!)](https://git.io/typing-svg)
-Hi there, I'm Guruvardhan! 
+# <a href="https://git.io"><img src="https://herokuapp.com!" alt="Typing SVG" />Hi there, I'm Guruvardhan!</a>
 > *"The best way to predict the future is to invent it."*
 
 🚀 **Final Year IT Student | Aspiring Software Engineer | AI-Driven Developer**
