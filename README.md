@@ -1,13 +1,4 @@
-import { MarkdownTypewriter } from "react-markdown-typewriter";
-
-export default function NarrationScreen() {
-    return (
-        <div>
-            <MarkdownTypewriter><h1>Hi! Im Guruvardhan </h1></MarkdownTypewriter>
-        </div>
-    );
-}
-
+# Hi! I'm Guruvardhan 
 > *"The best way to predict the future is to invent it."*
 
 🚀 **Final Year IT Student | Aspiring Software Engineer | AI-Driven Developer**
