@@ -1,4 +1,4 @@
-# Hi! I'm Guruvardhan :Hand:
+# Hi! I'm Guruvardhan :wave:
 
 > *"The best way to predict the future is to invent it."*
 
