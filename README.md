@@ -1,4 +1,12 @@
-# Hi! I'm Guruvardhan :wave:
+import { MarkdownTypewriter } from "react-markdown-typewriter";
+
+export default function NarrationScreen() {
+    return (
+        <div>
+            <MarkdownTypewriter><h1>Hello World</h1></MarkdownTypewriter>
+        </div>
+    );
+}
 
 > *"The best way to predict the future is to invent it."*
 
