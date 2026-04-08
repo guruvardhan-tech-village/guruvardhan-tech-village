@@ -3,7 +3,7 @@ import { MarkdownTypewriter } from "react-markdown-typewriter";
 export default function NarrationScreen() {
     return (
         <div>
-            <MarkdownTypewriter><h1>Hello World</h1></MarkdownTypewriter>
+            <MarkdownTypewriter><h1>Hi! Im Guruvardhan </h1></MarkdownTypewriter>
         </div>
     );
 }
