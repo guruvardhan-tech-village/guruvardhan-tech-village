@@ -1,4 +1,7 @@
-# <a href="https://https://github.com/guruvardhan-tech-village/guruvardhan-tech-village"> alt="" />Hi there, I'm Guruvardhan!</a>
+<h1 align="center">
+  Hi there! I'm Guruvardhan
+</h1>
+
 > *"The best way to predict the future is to invent it."*
 
 🚀 **Final Year IT Student | Aspiring Software Engineer | AI-Driven Developer**
