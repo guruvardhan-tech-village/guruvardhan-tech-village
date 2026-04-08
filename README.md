@@ -1,6 +1,4 @@
-<h1 align="center">
-  Hi there! I'm Guruvardhan :Hi:
-</h1>
+# Hi! I'm Guruvardhan :Hand:
 
 > *"The best way to predict the future is to invent it."*
 
